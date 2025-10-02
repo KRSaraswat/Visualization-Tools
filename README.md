@@ -1,9 +1,14 @@
-# Custom 3-Set Venn Diagram in Python
+## 🆚 How This Is Different from Standard Venn Libraries
 
-This project provides a clean and customizable implementation of **3-set Venn diagrams** in Python using `matplotlib`. Unlike library-generated Venn diagrams, this version gives you **precise control over circle placement, size, and label positioning**. It's ideal for presenting complex set intersections in a visually clean, publication-ready format.
+Standard Python Venn libraries like `matplotlib-venn` generate diagrams with fixed logic and limited customization. This project, however, gives you:
 
-🎯 Features:
-- Precise manual control of set overlap
-- Label customization (bold, colors, etc.)
-- Region-specific text rendering
-- Exportable high-resolution images (e.g., PNG, PDF)
+- 📍 **Manual control** over circle positions and overlap
+- 🔠 **Region-specific text** with smart label formatting
+- 🧩 **Accurate visual reflection of set relationships**
+- 🎨 Support for **bold labels**, color palettes, and readable layout
+- 🖼️ **High-resolution exports** for reports and presentations
+
+It's a great choice when you care about:
+- How your Venn diagram looks
+- Where each label appears
+- Making sure diagrams **match your data** and not the other way around

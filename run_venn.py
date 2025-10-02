@@ -1,0 +1,11 @@
+from venn_diagram import plot_venn3
+
+set1 = {'A', 'B', 'C', 'D', 'E'}
+set2 = {'C', 'D', 'F', 'G'}
+set3 = {'B', 'D', 'G', 'H', 'I', 'J'}
+
+plot_venn3(set1, set2, set3,
+           labels=['E-State', 'MFP', 'ABOCH'],
+           colors=['#E41A1C', '#377EB8', '#FFAB52'],
+           bold_labels=True,
+           save_path="venn_final.png")

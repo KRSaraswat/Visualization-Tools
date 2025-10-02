@@ -12,3 +12,10 @@ It's a great choice when you care about:
 - How your Venn diagram looks
 - Where each label appears
 - Making sure diagrams **match your data** and not the other way around
+- Render clean, label-friendly diagrams that are actually readable
+
+This is ideal for:
+📊 Research presentations
+📄 Scientific publishing
+🧪 Experimental set visualizations
+📘 Teaching materials where clarity matters
